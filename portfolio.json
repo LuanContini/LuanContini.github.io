@@ -1,0 +1,233 @@
+{
+  "name": "Luan Henrico Andrade Siqueira do Amaral Contini",
+  "label": "Desenvolvedor de Software",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "luanhenricoa@gmail.com",
+    "phone": "+55 (19)99519-3182",
+    "location": "Paulínia, São Paulo, Brasil"
+  },
+  "summary": "Desenvolvedor de software com formação técnica em Informática e graduação em Análise e Desenvolvimento de Sistemas em andamento pelo IFSP. Experiência prática com desenvolvimento backend em Python (Flask) e Node.js, criação e consumo de APIs REST, bancos de dados SQL e automações. Atuação em projetos acadêmicos e de extensão, com foco em sistemas reais, organização, aprendizado contínuo e melhoria de processos.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/LuanContini",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "Linkedin",
+      "url": "www.linkedin.com/in/luan-contini-300a07233",
+      "svg_path": "img/linkedin.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "LYCRA Corporation / CISA",
+      "position": "Jovem Aprendiz - Auxiliar Administrativo",
+      "url": "",
+      "start_date": "10/2024",
+      "end_date": "12/2025",
+      "summary": "Atuação em rotinas administrativas com forte envolvimento em tecnologia e melhoria de processos.",
+      "highlights": [
+        "Apoio em rotinas administrativas e operacionais",
+        "Organização de documentos e controle interno com planilhas e sistemas",
+        "Criação de soluções utilizando Microsoft Power Platform",
+        "Participação em melhorias de processos com foco em tecnologia e automação",
+        "Colaboração com diferentes áreas da empresa"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "TCC – Reconhecimento Facial para Clínica de Saúde",
+      "summary": "Trabalho de conclusão de curso com foco em solução de identificação de pacientes via reconhecimento facial.",
+      "url": "https://github.com/LuanContini/TCC",
+      "highlights": [
+        "Desenvolvimento de POC em JavaScript",
+        "Estudo de integração com sistemas de saúde",
+        "Aplicação de técnicas de IA"
+      ],
+      "images": [
+        {
+          "img_path": "portfolio_media/ArquiteturaTCC.png",
+          "caption": "Arquitetura do Projeto"
+        },
+        {
+          "img_path": "portfolio_media/StackTCC.png",
+          "caption": "Stack do Backend"
+        }
+      ]
+    },
+    {
+      "title": "Sistema de Gestão de Aluguel de Equipamentos – Greg Eventos",
+      "summary": "Projeto de extensão do IFSP para centralizar e automatizar a gestão de aluguel de equipamentos com rastreamento de ativos e controle de locações.",
+      "url": "https://github.com/LuanContini/Projeto-extensao-4Semestre",
+      "highlights": [
+        "Desenvolvimento backend com Node.js e Express",
+        "Integração com banco de dados MySQL",
+        "Controle de disponibilidade de equipamentos",
+        "Uso de lógica de negócios e automação",
+        "Organização completa do fluxo de informações"
+      ],
+      "images": []
+    },
+    {
+      "title": "Task Manager CLI (Python)",
+      "summary": "Aplicação de linha de comando para gerenciamento de tarefas com persistência local em JSON.",
+      "url": "https://github.com/LuanContini/task-manager-cli",
+      "highlights": [
+        "Implementação de CRUD em Python",
+        "Persistência de dados com JSON",
+        "Comandos CLI intuitivos"
+      ],
+      "images": []
+    },
+    {
+      "title": "Projeto de Reconhecimento Facial (Flask)",
+      "summary": "Backend em Python com Flask para aplicação de reconhecimento facial, parte de projeto acadêmico.",
+      "url": "https://github.com/LuanContini/Projeto_LP4",
+      "highlights": [
+        "Estrutura de API com Flask",
+        "Manipulação de imagens e modelos de reconhecimento",
+        "Aplicação prática de visão computacional"
+      ],
+      "images": []
+    },
+    {
+      "title": "Meu Perfil GitHub",
+      "summary": "Outros repositórios de estudo e aprendizado em várias linguagens e tecnologias, representando evolução técnica contínua.",
+      "url": "https://github.com/LuanContini?tab=repositories",
+      "highlights": [
+        "Diversidade de linguagens (JavaScript, Python, C, C#)",
+        "Projetos acadêmicos e experimentos técnicos",
+        "Evidência de aprendizado e autonomia"
+      ],
+      "images": []
+    }
+  ],
+  "volunteer_experience": [],
+  "education": [
+    {
+      "institution": "Instituto Federal de São Paulo (IFSP)",
+      "location": "Campinas, São Paulo, Brasil",
+      "url": "",
+      "degrees": ["Tecnólogo em Análise e Desenvolvimento de Sistemas"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "12/2025"
+    },
+    {
+      "institution": "Centro Municipal de Ensino Profissionalizante de Paulínia",
+      "location": "Paulínia, São Paulo, Brasil",
+      "url": "",
+      "degrees": ["Técnico em Informática"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "12/2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": 70,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "Python (Flask)",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "C",
+      "proficiency": 50,
+      "proficiency_label": "Básico"
+    },
+    {
+      "name": "SQL",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "APIs REST",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "Git e GitHub",
+      "proficiency": 75,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "Linux",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "Arquitetura Backend",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+    {
+      "name": "Modelagem de Dados (ERD / CDM)",
+      "proficiency": 60,
+      "proficiency_label": "Intermediário"
+    },
+
+    {
+      "name": "Bash Script",
+      "proficiency": 50,
+      "proficiency_label": "Básico a Intermediário"
+    },
+    {
+      "name": "HTML5",
+      "proficiency": 30,
+      "proficiency_label": "Básico"
+    },
+    {
+      "name": "Visão Computacional (conceitos)",
+      "proficiency": 40,
+      "proficiency_label": "Básico a Intermediário"
+    },
+    {
+      "name": "Reconhecimento Facial (DeepFace)",
+      "proficiency": 40,
+      "proficiency_label": "Básico"
+    },
+    {
+      "name": "Testes Unitários (conceitos)",
+      "proficiency": 50,
+      "proficiency_label": "Básico"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Desenvolvimento de Software",
+      "summary": "Interesse em backend, automação, APIs, sistemas distribuídos e uso de tecnologia para resolver problemas reais.",
+      "images": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Intermediário"
+    }
+  ],
+  "references": []
+}
