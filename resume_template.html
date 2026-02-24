@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Info -->
-    <title>{{ name }} - Resume</title>
+    <title>{{ name }} - Currículo</title>
     <meta name="description" content="{{ name }} - {{ summary }}">
     <meta name="author" content="{{ name }}">
 
@@ -89,7 +89,7 @@
         <main>
           {% if work_experience %}
             <section>
-              <h2 class="section-heading">Work Experience</h2>
+              <h2 class="section-heading">Experiência</h2>
               {% for job in work_experience %}
                 <section>
                   <h3>
@@ -115,7 +115,7 @@
 
           {% if projects %}
             <section>
-              <h2 class="section-heading">Projects</h2>
+              <h2 class="section-heading">Projetos</h2>
               {% for project in projects %}
                 <section>
                   <h3>
@@ -141,7 +141,7 @@
         <aside>
           {% if languages %}
             <section>
-              <h2 class="section-heading">Languages</h2>
+              <h2 class="section-heading">Línguas</h2>
               <ul class="unstyled-list">
                 {% for lang in languages %}
                   <li>
@@ -155,7 +155,7 @@
 
           {% if volunteer_experience %}
             <section>
-              <h2 class="section-heading">Volunteer Experience</h2>
+              <h2 class="section-heading">Trabalho Voluntário</h2>
               {% for vol in volunteer_experience %}
                 <section>
                   <h3>
